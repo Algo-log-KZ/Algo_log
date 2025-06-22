@@ -1,4 +1,4 @@
-# 자바 알고리즘 스터디
+# 알고리즘 스터디
 
 ## 🧠 목차
 
@@ -22,5 +22,5 @@
 | 그리디       |6        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12244)|
 
 ## 🛠 Tech Stack
-- Java 17  
+- Java 17
 
