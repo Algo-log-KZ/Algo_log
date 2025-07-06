@@ -29,17 +29,18 @@ class Solution {
         for(int i = 0; i < wholePlay.size(); i++){
             Map.Entry<String, Integer> entry = collect.get(i);
             ArrayList<int[]> temp = memo.get(entry.getKey());
+            
             Collections.sort(temp, (o1, o2) -> {
                 return -(o1[1] - o2[1]);
             });
+            
             for(int j = 0; j < temp.size(); j++){
                 if(j == 2) break;
                 int [] check = temp.get(j);
                 list.add(check[0]);
             }
         }
-        
-        
+    
         return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }
