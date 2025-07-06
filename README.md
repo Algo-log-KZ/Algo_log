@@ -8,7 +8,7 @@
 | 스택         |6        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12081)|
 | 큐           |6        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12081)|
 | 해시         |5        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12077)|
-| 힙           |3        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12177)|
+| 힙           |3        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12117)|
 | 완전탐색     |7        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12230)|
 | 이분탐색     |2        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12486)|
 | 트리         |         |           |
