@@ -20,6 +20,7 @@
 | DFS/BFS     |7        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12421)|
 | 동적 계획법  |5        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12263)|
 | 그리디       |6        |[고득점 Kit](https://school.programmers.co.kr/learn/courses/30/parts/12244)|
+| SQL       |6        |[고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)|
 
 ## 🛠 Tech Stack
 - Java 17
