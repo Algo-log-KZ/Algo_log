@@ -24,4 +24,6 @@
 
 ## 🛠 Tech Stack
 - Java 17
-
+- Python
+- Oracle
+- MySQL
