@@ -6,8 +6,8 @@ class Solution {
         int endTime = 0;
 
         PriorityQueue<int[]> diskQ = new PriorityQueue<>(Comparator.comparingInt(a -> a[1]));
-
         PriorityQueue<int[]> jobQ = new PriorityQueue<>(Comparator.<int[]>comparingInt(a -> a[0]).thenComparingInt(a -> a[1]));
+        
         Collections.addAll(jobQ, jobs);
 
         if (!jobQ.isEmpty()) {
