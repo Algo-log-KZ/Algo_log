@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public int solution(int[][] routes) {
         int answer = 0;
-        int min = 30000;
+        int min = -30000;
         
         List<int[]> arr = new ArrayList<>();
         
